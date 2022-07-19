@@ -1,0 +1,41 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/img/bgwhite.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 4px;
+}
+.trending{
+    height: auto;
+    background-color: black;
+}
+
+
+.movieimg {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images{
+    height: 500px;
+}
+
+.SuperHero {
+    
+    height: auto;
+    background-color: rgb(71, 74, 221);
+}
